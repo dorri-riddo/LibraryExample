@@ -7,3 +7,11 @@ https://www.notion.so/parsePdf-c62ad35b4cf74d319243be9b7c2f867b
 
 ### excelDown
 https://www.notion.so/excelDown-5811173b98b84ac6993feca34387f2c6
+
+
+### echart
+https://www.notion.so/echart-c178e691c9bd4481a5a7f7548d795e6b
+
+
+### scheduler
+https://www.notion.so/scheduler-cb335411a981485eadcab528f19087a2
