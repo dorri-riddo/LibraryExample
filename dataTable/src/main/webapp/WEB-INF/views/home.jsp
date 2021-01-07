@@ -533,7 +533,7 @@ $(document).ready(function() {
 			{"data": "Start date"},
 			{"data": "Salary"},
 		] 
-		// data: output // DB 에서 데이터를 가지고 올 경우 JSON 형태로 가지고 오면 됨
+		// data: output // DB 에서 데이터를 가지고 올 경우 JSON 형태로 가지고 오면 된다
 	});
 
 	// 컬럼 숨기기/보이기 설정
@@ -546,11 +546,6 @@ $(document).ready(function() {
 
 	    // Toggle the visibility
 	    column.visible( ! column.visible() );
-	} );
-
-
-	new $.fn.dataTable.ColReorder( table, {
-	    // options
 	} );
 });
 </script>  
